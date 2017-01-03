@@ -1,0 +1,11 @@
+
+user_agent="script:BadPoetryBot:v1.0"
+scopes = ['read','submit','identity']
+
+app_key = 'XXXX'
+app_secret = 'XXXX'
+access_token = 'XXXX'
+refresh_token = 'XXXX'
+
+username = 'BadPoetryBot'
+password = 'XXXX'
